@@ -1,6 +1,6 @@
 # 🎓 Student Management System V1
 
-A command-line Student Management System built with Python and SQLite — created as part of my **#100DaysOfPython** challenge on **Day 10**.
+A command-line Student Management System built with Python and SQLite — created as part of my **#60DaysOfPython** challenge on **Day 10**.
 
 ---
 
@@ -72,4 +72,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-**studyhaxer** — Day 10 of #100DaysOfPython 🐍
+**studyhaxer** — Day 10 of #60DaysOfPython 🐍
